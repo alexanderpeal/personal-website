@@ -7,7 +7,7 @@ interface HeaderProps {
 const Header: React.FC<HeaderProps> = ({ setContent }) => {
     return (
       <header className="text-slate-500 p-4">
-        <div className="container mx-auto flex justify-center items-center bg-slate-100">
+        <div className="container mx-auto flex justify-center items-center">
           <h1 className="text-3xl font-bold"></h1>
           <nav>
             <ul className="flex space-x-4">

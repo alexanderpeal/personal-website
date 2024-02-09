@@ -7,6 +7,7 @@ import HomeContent from '@/components/content/HomeContent';
 import ContactContent from '@/components/content/ContactContent';
 import AboutContent from '@/components/content/AboutContent';
 import ResumeContent from '@/components/content/ResumeContent';
+import NameComponent from '@/components/NameComponent';
 
 export default function Home() {
   const [content, setContent] = useState('home');
@@ -31,7 +32,9 @@ export default function Home() {
     <div>
       <Header setContent={setContent}/>
 
-      <h1 className="text-2xl font-bold text-center">Welcome</h1>
+      <div className="text-6xl font-bold text-center">
+        <NameComponent />
+      </div>
 
       <main className="container mx-auto p-4">
         {renderContent()}
