@@ -11,10 +11,11 @@ const Header: React.FC<HeaderProps> = ({ setContent }) => {
           <h1 className="text-3xl font-bold"></h1>
           <nav>
             <ul className="flex space-x-4">
-              <li><a href="#" onClick={() => setContent('home')} className="hover:text-blue-200">Home</a></li>
-              <li><a href="#about" onClick={() => setContent('about')} className="hover:text-blue-200">About</a></li>
-              <li><a href="#resume" onClick={() => setContent('resume')} className="hover:text-blue-200">Resume</a></li>
-              <li><a href="#contact" onClick={() => setContent('contact')} className="hover:text-blue-200">Contact</a></li>
+              <li><a href="#" onClick={() => setContent('home')} className="hover:text-blue-200">home</a></li>
+              <li><a href="#bio" onClick={() => setContent('bio')} className="hover:text-blue-200">bio</a></li>
+              <li><a href="#resume" onClick={() => setContent('resume')} className="hover:text-blue-200">links</a></li>
+              <li><a href="#contact" onClick={() => setContent('contact')} className="hover:text-blue-200">resume</a></li>
+              <li><a href="#contact" onClick={() => setContent('contact')} className="hover:text-blue-200">contact</a></li>
             </ul>
           </nav>
         </div>

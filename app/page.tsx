@@ -5,7 +5,7 @@ import React, { useState } from 'react';
 
 import HomeContent from '@/components/content/HomeContent';
 import ContactContent from '@/components/content/ContactContent';
-import AboutContent from '@/components/content/AboutContent';
+import BioContent from '@/components/content/BioContent';
 import ResumeContent from '@/components/content/ResumeContent';
 import NameComponent from '@/components/NameComponent';
 import HorizontalDivider from '@/components/HorizontalDivider';
@@ -18,8 +18,8 @@ export default function Home() {
     switch (content) {
       case 'home':
         return <HomeContent />;
-      case 'about':
-        return <AboutContent />;
+      case 'bio':
+        return <BioContent />;
       case 'resume':
         return <ResumeContent />;
       case 'contact':
