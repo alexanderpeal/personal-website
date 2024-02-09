@@ -8,6 +8,7 @@ import ContactContent from '@/components/content/ContactContent';
 import AboutContent from '@/components/content/AboutContent';
 import ResumeContent from '@/components/content/ResumeContent';
 import NameComponent from '@/components/NameComponent';
+import HorizontalDivider from '@/components/HorizontalDivider';
 
 export default function Home() {
   const [content, setContent] = useState('home');
@@ -35,6 +36,8 @@ export default function Home() {
       <div className="text-6xl font-bold text-center">
         <NameComponent />
       </div>
+
+      <HorizontalDivider />
 
       <main className="container mx-auto p-4">
         {renderContent()}
