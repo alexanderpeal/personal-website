@@ -9,7 +9,7 @@ const HomeContent = () => {
         <br></br>
 
         <p>
-          I'm a student at&nbsp;
+          I&apos;m a student at&nbsp;
           <a href="https://cs.vt.edu/" className="text-blue-500 no-underline hover:underline">Virginia Tech</a>
           &nbsp;exploring computer science.
           There, I work as a teaching assistant for CS 2104: Problem Solving in CS, and as a volunteer researcher at the&nbsp;
@@ -22,10 +22,10 @@ const HomeContent = () => {
         <br></br>
 
         <p>
-          Outside of school, I've worked on developing robust user interfaces for testing frameworks at&nbsp;
+          Outside of school, I&apos;ve worked on developing robust user interfaces for testing frameworks at&nbsp;
           <a href="https://gdmissionsystems.com/" className="text-blue-500 no-underline hover:underline">General Dynamics Mission Systems</a>,
           where my work was demonstrated to Department of Defense contractors in competitions for multi-million dollar contracts.
-          I've also spent my summers teaching kids how to code, build robots, and do math at&nbsp;
+          I&apos;ve also spent my summers teaching kids how to code, build robots, and do math at&nbsp;
           <a href="https://www.fairfaxcollegiate.com/" className="text-blue-500 no-underline hover:underline">Fairfax Collegiate</a>.
         </p>
 
@@ -39,7 +39,7 @@ const HomeContent = () => {
 
         <p>
           On the weekends, you'll probably find me watching&nbsp;
-          <a href="https://www.chelseafc.com/en" className="text-blue-500 no-underline hover:underline">Chelsea F.C.'s</a> latest fixture,
+          <a href="https://www.chelseafc.com/en" className="text-blue-500 no-underline hover:underline">Chelsea F.C.&apos;s</a> latest fixture,
           organizing my ever-growing&nbsp;
           <a href="https://open.spotify.com/user/bananapeel420" className="text-blue-500 no-underline hover:underline">Spotify</a> catalogue,
           or going on runs around Blacksburg, VA.
