@@ -32,13 +32,13 @@ const HomeContent = () => {
         <br></br>
 
         <p>
-          I'm particularly interested in back-end development, cloud computing, high-performance computing, and distributed systems.
+          I&apos;m particularly interested in back-end development, cloud computing, high-performance computing, and distributed systems.
         </p>
 
         <br></br>
 
         <p>
-          On the weekends, you'll probably find me watching&nbsp;
+          On the weekends, you&apos;ll probably find me watching&nbsp;
           <a href="https://www.chelseafc.com/en" className="text-blue-500 no-underline hover:underline">Chelsea F.C.&apos;s</a> latest fixture,
           organizing my ever-growing&nbsp;
           <a href="https://open.spotify.com/user/bananapeel420" className="text-blue-500 no-underline hover:underline">Spotify</a> catalogue,
