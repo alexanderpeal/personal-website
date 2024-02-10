@@ -1,7 +1,7 @@
 const HomeContent = () => {
   return (
     <div>
-      <div className="text-md">
+      <div className="text-md text-neutral-900">
         <p>
           Hello!
         </p>
