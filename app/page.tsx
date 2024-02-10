@@ -33,7 +33,7 @@ export default function Home() {
     <div>
       <Header setContent={setContent}/>
 
-      <div className="text-6xl font-bold text-center">
+      <div className="text-6xl font-bold text-center text-neutral-900">
         <NameComponent />
       </div>
 
