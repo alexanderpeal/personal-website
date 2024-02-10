@@ -1,8 +1,7 @@
 const ResumeContent = () => {
     return (
       <div>
-        <h2>Resume</h2>
-        <p>Here is my resume.</p>
+        <iframe className="w-full aspect-[16/9]" src="./resume.pdf"></iframe>
       </div>
     );
   };

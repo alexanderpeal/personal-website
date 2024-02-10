@@ -42,7 +42,7 @@ const HomeContent = () => {
           <a href="https://www.chelseafc.com/en" className="text-blue-500 no-underline hover:underline">Chelsea F.C.'s</a> latest fixture,
           organizing my ever-growing&nbsp;
           <a href="https://open.spotify.com/user/bananapeel420" className="text-blue-500 no-underline hover:underline">Spotify</a> catalogue,
-          or going on runs through the suburbs and trails of Blacksburg.
+          or going on runs around Blacksburg, VA.
         </p>
       </div>
     </div>

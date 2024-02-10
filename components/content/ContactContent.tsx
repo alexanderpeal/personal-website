@@ -1,10 +1,13 @@
 const ContactContent = () => {
     return (
-      <div>
-        <h2>Contact</h2>
-        <p>This is the contact section.</p>
-      </div>
+        <div>
+        
+        <p> 
+            Send me a message on <a href="https://www.linkedin.com/in/alexpeal/" className="text-blue-500 no-underline hover:underline">LinkedIn</a>!
+        </p>
+
+        </div>
     );
-  };
+};
   
 export default ContactContent;
