@@ -5,8 +5,7 @@ interface HeaderProps {
 const Header: React.FC<HeaderProps> = ({ setContent }) => {
     return (
       <header className="p-4">
-        <div className="container mx-auto flex justify-center items-center">
-          <h1 className="text-3xl font-bold"></h1>
+        <div className="container mx-auto flex justify-center items-center text-netural-900">
           <nav>
             <ul className="flex space-x-4 text-netural-900">
               <li><a href="#" onClick={() => setContent('home')} className="hover:text-neutral-300">home</a></li>
