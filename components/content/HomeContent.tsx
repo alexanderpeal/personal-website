@@ -3,10 +3,28 @@ const HomeContent = () => {
     <div>
       <div className="text-md text-neutral-900">
         <p>
-          Hello!
+          Hey there! I'm Alex. Some people also call me Peal. It's nice to meet you!
         </p>
 
         <br></br>
+
+        {/* <p>
+          I'm currently a student at Virginia Tech majoring in computer science.
+        </p> */}
+
+        {/* <br></br>
+
+        <p>
+          I'm currently a student at Virginia Tech majoring in computer science.
+        </p> */}
+
+        {/* <br></br>
+
+        <ul className="pl-5 list-disc list-inside">
+            <li>Teaching assistant for CS 2104: Problem Solving in CS</li>
+            <li>Research Intern studying the inters</li>
+            <li>Lead developer for VTHacks</li>
+          </ul>
 
         <p>
           I&apos;m a student at&nbsp;
@@ -43,7 +61,7 @@ const HomeContent = () => {
           organizing my ever-growing&nbsp;
           <a href="https://open.spotify.com/user/bananapeel420" className="text-blue-500 no-underline hover:underline">Spotify</a> catalogue,
           or going on runs around Blacksburg, VA.
-        </p>
+        </p> */}
       </div>
     </div>
   );
