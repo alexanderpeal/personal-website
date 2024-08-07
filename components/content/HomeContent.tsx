@@ -3,14 +3,24 @@ const HomeContent = () => {
     <div>
       <div className="text-md text-neutral-900">
         <p>
-          Hey there! I'm Alex. Some people also call me Peal. It's nice to meet you!
+          Hey there! I&apos;m Alex. Some people also call me Peal. It&apos;s nice to meet you!
         </p>
 
         <br></br>
 
-        {/* <p>
-          I'm currently a student at Virginia Tech majoring in computer science.
-        </p> */}
+        <p>
+          I&apos;m currently a student at Virginia Tech majoring in computer science. Outside of school, I&apos;ve interned at <a href="https://appian.com/" className="text-blue-500 no-underline hover:underline">Appian</a> and <a href="https://gdmissionsystems.com/" className="text-blue-500 no-underline hover:underline">General Dynamics Mission Systems</a>,
+          competed in and organized hackathons such as <a href="https://vthacks.com/" className="text-blue-500 no-underline hover:underline">VTHacks</a>,
+          worked as a teaching assistant and research intern at Virginia Tech&apos;s computer science department, and represented <a href="https://www.intel.com/content/www/us/en/homepage.html" className="text-blue-500 no-underline hover:underline">Intel</a> as a 
+          student ambassador.
+        </p>
+
+        <br></br>
+
+        <p>
+          My biggest passions are infrastructure and low-level development, but I&apos;m at my happiest as long as I&apos;m learning new things alongside great people. In
+          my free time, you&apos;ll catch me watching soccer, trying a new restaurant (if I&apos;m not in a Chipotle kind of mood), or reading the latest issue of <a href="https://www.viz.com/shonenjump" className="text-blue-500 no-underline hover:underline">Shonen Jump</a>.
+        </p>
 
         {/* <br></br>
 
