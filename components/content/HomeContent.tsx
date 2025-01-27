@@ -18,8 +18,8 @@ const HomeContent = () => {
         <br></br>
 
         <p>
-          My biggest passions are infrastructure and low-level development, but I&apos;m at my happiest as long as I&apos;m learning new things alongside great people. In
-          my free time, you&apos;ll catch me watching soccer, trying a new restaurant (if I&apos;m not in a Chipotle kind of mood), or reading the latest issue of <a href="https://www.viz.com/shonenjump" className="text-blue-500 no-underline hover:underline">Shonen Jump</a>.
+          I&apos;m most interested in infrastructure and low-level development, but I&apos;m at my happiest as long as I&apos;m learning new things alongside great people. In
+          my free time, you&apos;ll catch me watching football, trying new restaurants, or starting a new anime.
         </p>
 
         {/* <br></br>
