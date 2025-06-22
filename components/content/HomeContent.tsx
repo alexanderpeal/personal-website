@@ -9,7 +9,11 @@ const HomeContent = () => {
         <br></br>
 
         <p>
-          I&apos;m currently a student at Virginia Tech majoring in computer science. Outside of school, I&apos;ve interned at <a href="https://appian.com/" className="text-blue-500 no-underline hover:underline">Appian</a> and <a href="https://gdmissionsystems.com/" className="text-blue-500 no-underline hover:underline">General Dynamics Mission Systems</a>,
+          I&apos;m currently a student at Virginia Tech majoring in computer science.
+          Outside of school, I&apos;ve interned at <a href="https://www.bloomberg.com/" className="text-blue-500 no-underline hover:underline">Bloomberg</a>, 
+          <a href="https://appian.com/" className="text-blue-500 no-underline hover:underline">Appian</a>, 
+          and <a href="https://gdmissionsystems.com/" className="text-blue-500 no-underline hover:underline">General Dynamics Mission Systems</a>,
+          
           competed in and organized hackathons such as <a href="https://vthacks.com/" className="text-blue-500 no-underline hover:underline">VTHacks</a>,
           worked as a teaching assistant and research intern at Virginia Tech&apos;s computer science department, and represented <a href="https://www.intel.com/content/www/us/en/homepage.html" className="text-blue-500 no-underline hover:underline">Intel</a> as a 
           student ambassador.
@@ -18,8 +22,8 @@ const HomeContent = () => {
         <br></br>
 
         <p>
-          I&apos;m most interested in infrastructure and low-level development, but I&apos;m at my happiest as long as I&apos;m learning new things alongside great people. In
-          my free time, you&apos;ll catch me watching football, trying new restaurants, or starting a new anime.
+          My technical interests are varied. I enjoy infrastructure and back-end development in particular, but love working across the stack on mission-critical, customer facing functions. I&apos;m at my happiest as long as I&apos;m learning new things alongside great people. In
+          my free time, you&apos;ll catch me watching/playing any sport under the sun, overanalyzing the newest anime I picked up, or trying my hand at baking.
         </p>
 
         {/* <br></br>
